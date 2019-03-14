@@ -8,6 +8,7 @@
 
 ## Abstract
 
+
 An extensive investigation, involving visualisations, analytic Bayesian statistics, and neural network design applied to sentiment analysis of often poorly-structured text. 
 
 We have downloaded a dataset of 300,000 rows from kaggle.com. Each row represents a review of a book uploaded to Goodreads.com. Included is information on the book, the average rating of the book, the rating awarded by the specific review, the name of the reviewer, and the text of the review. We investigate this first, by creating dense visualisations, showing how each reviewer's scores deviates from the rest of her peers. In doing so, we find anomalous reviewers, which may allow for detection of fraudulent reviews.
