@@ -1,7 +1,7 @@
 # Goodreads_review_analysis
 
 - All code + full writeup in [sentiment_revs.ipynb.](https://github.com/ScottVinay/Goodreads_review_analysis/blob/master/sentiment_revs.ipynb)
-- Database operations performed primarily in Pandas - SQL version given in `queries_in_sql.ipynb`.
+- Database operations performed primarily in Pandas - SQL version given in [queries_in_sql.ipynb.](https://github.com/ScottVinay/Goodreads_review_analysis/blob/master/queries_in_SQL.ipynb)
 - Data from https://www.kaggle.com/gnanesh/goodreads-book-reviews.
 - <b>Final accuracy of neural network = 59% | Final accuracy of human experts = 50%.<b>
 
